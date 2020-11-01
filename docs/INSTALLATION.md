@@ -54,10 +54,10 @@ Nice! Use `(exit)` or Ctrl-C (C-c) twice to exit.
 Install your system's "developer tools" or "essential build packages", `git`
 and Erlang's `erl`.
 
-For example, on Ubuntu 14.04:
+For example, on Ubuntu 18.04:
 
 ```bash
-$ sudo apt-get install build-essentials git erlang erlang-base-hipe
+$ sudo apt-get install build-essential git erlang erlang-base-hipe
 ```.
 
 Afterwards you can download and build LFE with the following:
